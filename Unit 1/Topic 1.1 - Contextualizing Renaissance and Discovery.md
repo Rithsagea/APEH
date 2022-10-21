@@ -1,8 +1,11 @@
+## Essential Question
+- What was the context for the development of the Renaissance and Age of Discovery?
+## Overview
 - fall of the Roman empire led to the [[Middle Ages]], lack of innovations in science and art, and unordinary leaders
 - main power was the Roman Catholic Church
 - [[Crusades]] facilitated an exchange of European and Islamic ideas
 - [[Black Death]] drastically reduced population, increasing power of peasants
-- [[Italian Renaissance]] invoked resurgence of ideas from antiquity, affected art, technology, and society
+- [[Topic 1.2 - Italian Renaissance]] invoked resurgence of ideas from antiquity, affected art, technology, and society
 - [[Printing Press]] and similar innovations promoted intellectual development
 - innovations in navigation and cartography, overseas colonies and large trade networks
 	- colonies search of gold and spices

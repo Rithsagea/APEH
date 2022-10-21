@@ -1,11 +1,4 @@
-- Contextualization
-	- fall of Roman empire -> Middle Ages, lack of science, art, and leadership
-	- Roman Catholic Church main power, feudal system culture
-	- [[Crusades]] -> exchange European + Islamic ideas
-	- [[Black Death]] -> population fall, more peasant power
-	- naval innovations -> exploration of new world
-	- capitalism ->rise of bankers and merchants
-	- increased political movement, borders and taxes
+
 - Italian Renaissance
 	- [[Humanists]] -> new movement focusing on human potential; secular; person > religion + politics; focused on humanities over mathematics
 	- [[Petrach]] -> Father of [[Humanists|Humanism]], studied Latin works, wrote in `vernacular`
