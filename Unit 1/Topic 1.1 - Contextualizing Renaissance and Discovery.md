@@ -5,7 +5,7 @@
 - main power was the Roman Catholic Church
 - [[Crusades]] facilitated an exchange of European and Islamic ideas
 - [[Black Death]] drastically reduced population, increasing power of peasants
-- [[Topic 1.2 - Italian Renaissance]] invoked resurgence of ideas from antiquity, affected art, technology, and society
+- [[Italian Renaissance|Renaissance]] invoked resurgence of ideas from antiquity, affected art, technology, and society
 - [[Printing Press]] and similar innovations promoted intellectual development
 - innovations in navigation and cartography, overseas colonies and large trade networks
 	- colonies search of gold and spices
