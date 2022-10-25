@@ -1,0 +1,3 @@
+- 1606-1669
+- [[Baroque]] artist, focused on effects of light
+- painted *The Night Watch*
