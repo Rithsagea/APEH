@@ -1,4 +1,4 @@
 ---
 aliases: ["Calvanists"]
 ---
-# Calvinism
+

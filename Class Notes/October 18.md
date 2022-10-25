@@ -3,18 +3,18 @@
 	- Traditionally taught as a European wide war fought over religion
 	- Actually series of secular civil wars across nations with ulterior motives
 	- Loosely linked together over period of 30 years
-- A conspiracy against the [[Hapsburgs]]
+- A conspiracy against the [[Hapsburg]]
 - 4 Phases
 
 - Phase 1 (1618 - 1625)
 	- Bohemian Phase, modern Prague, Czech Republic
 	- Bohemia part of Holy Roman Empire
-	- Ruled "on paper" by the Austrian [[Hapsburgs]]
+	- Ruled "on paper" by the Austrian [[Hapsburg]]
 	- [[Protestant|Protestantism]] popular amongst nobility to cause issues
 	- [[Catholicism]] was the dominant religion historically
 	- Feared persecution after
 	- Removal of tolerant ruler of Bohemia
-	- [[HRE Matthias]], removed by his intolerant [[Hapsburgs]] relatives
+	- [[HRE Matthias]], removed by his intolerant [[Hapsburg]] relatives
 	- Replaced by [[HRE Ferdinand II]], [[Catholicism|Catholic]] cousin, who wanted to eradicate Protestants
 	- Protestant Czechs hated [[HRE Ferdinand II]], since he was a devout Catholic
 	- Contacted a Protestant German nobleman [[Friedrich V of Pfalz]]
