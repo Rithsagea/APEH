@@ -27,6 +27,17 @@
 
 - Phase 2 (1625-1629)
 	- Rare appearance of Denmark (Danish phase)
-	- 
+	- Uses Protestant justification
+	- France, England, Netherlands support
+	- Albrecht von Wallenstein was a HRE ilitary genius and levied taxes + pillaged, ended up winning
+	- Many Hanseatic League cities become German
+	- Cardinal Richelieu - Catholic Minister who funded many anti Habsburg campaigns
+
+- Phase 3 Swedish Phase
+	- Gustavus Adolphus
+	- Things going for the Sweds
+		- "Lion of the North"
+		- Richelieu helped as well
+		- Legit Tactics
 
 - Austrian Empire multi-ethnic, and multi-lingual. Official language is German
