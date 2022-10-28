@@ -1,6 +1,4 @@
----
-aliases: ["Phillip II"]
----
+- r. 1556-1598
 - Son and heir of [[Charles V]]
 - Staunch [[Catholicism|Catholic]] millitant
 	- `the "Most Catholic King"`

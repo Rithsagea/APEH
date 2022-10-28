@@ -1,14 +1,12 @@
----
-aliases: ["Elizabeth I"]
----
+- 1558-1603
 - Daughter of [[Anne Boleyn]] and [[Henry VIII]]
 - Spent early life imprisoned
 
-- Took throne after [[Mary I]] died in 1558
+- Took throne after [[Mary Tudor]] died in 1558
 - [[Politique]], cared about integrity of country over religion
 	- "The Golden Speech", expressed devotion to Parliament
-- Repealed [[Mary I]]'s Catholic legislation, passed Act of Uniformity and instated moderate Protestant prayer book
-- After [[Elizabeth I (r. 1558-1603)]]'s religious reforms, both [[Catholicism|Catholics]] and [[Puritan|Puritans]] opposed her rule; was able to control these groups
+- Repealed [[Mary Tudor]]'s Catholic legislation, passed Act of Uniformity and instated moderate Protestant prayer book
+- despite both [[Catholicism|Catholics]] and [[Puritan|Puritans]] opposed her religious reforms, was able to control these groups
 
 - [[Mary, queen of Scots]] forced to flee Scotland, and imprisoned by Elizabeth for 14 years. Beheaded in 1587 due to power threats.
 

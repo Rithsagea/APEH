@@ -1,4 +1,4 @@
-- [[Philip II (r. 1556-1598)|Phillip II]] (r.1556-1598)
+- [[Philip II|Phillip II]] (r.1556-1598)
 	- Had a lots of land and gold in the New World
 	- Issues:
 		- Inflation due to excess silver imports
@@ -6,7 +6,7 @@
 		- Netherlands revolt
 	- Spain declined upon his death, overall bad ruler
 
-- [[Elizabeth I (r. 1558-1603)|Elizabeth I]] (r.1558-1603)
+- [[Elizabeth I|Elizabeth I]] (r.1558-1603)
 	- replaced [[Mary I]], daughter of [[Henry III]]
 	- was a [[Politique]]
 
