@@ -1,0 +1,1 @@
+- revoked the [[Edict of Nantes]]
