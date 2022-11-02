@@ -1,2 +1,3 @@
-- child king of France
+- r. 1610-1643
+- child king of France at age 9
 - 
