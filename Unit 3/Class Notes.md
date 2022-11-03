@@ -72,4 +72,38 @@
 		2. Competent & loyal administrators
 # Louis XIV & Cardinal Mazarin
 - [[Cardinal Richelieu]] died in 1642
-- 
+- [[Louis XIII]] died in 1643
+- both from tuberculosis
+- political vacuum
+- [[Louis XIV]], his son, took over at age 5, ruled for 72 years r.1643-1715
+	- longest ruler in AP Euro
+- 1642-1661, had an advisor, protege of Richelieu, [[Cardinal Mazarin]]
+	- tried to continue Richelieu's policies
+	- nobles immediately challenged government
+	- [[The Fronde]] :: nobles tried to overthrow government
+# The Fronde
+- [[The Fronde]], 1648-1652
+	- Age old conflict between nobility & king
+	1. French civil war?
+	2. Attempted *coup d'état*!
+	3. Kill the monarch (5 year old, yay)
+	- Motivations
+		1.  [[The Thirty Years' War]], armies very well developed due to French involvement
+			- "Experienced & independent" armies, "ready to shift gears"
+		2. *Carpe diem* mentality for nobles
+		3. "Mazarin was no Richelieu"
+	- Government prevailed after 4 years, however
+		1. [[Louis XIV]] childhood was very traumatic
+			- earliest memories of people trying to kill him, fleeing at night
+			- sought vengeance against the nobility
+# "Le Roi Soleil"
+- [[Louis XIV]]
+	- Sought to decimate nobles
+	- [[Palace of Versailles]]
+		- enlarged non-stop throughout his reign
+		- [[Jean-Baptiste Colbert]] supported costs with [[Mercantilism]] and [[Intendant System||intendants]]
+		- New capital away from Paris, cities often dangerous, countryside was safe
+	- Large expenditures
+		1. Versailles
+		2. "New France" in North America
+		3. Huge standing armies!
