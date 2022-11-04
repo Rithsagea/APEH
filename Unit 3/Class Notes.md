@@ -102,8 +102,23 @@
 	- [[Palace of Versailles]]
 		- enlarged non-stop throughout his reign
 		- [[Jean-Baptiste Colbert]] supported costs with [[Mercantilism]] and [[Intendant System||intendants]]
-		- New capital away from Paris, cities often dangerous, countryside was safe
+		- new capital away from Paris, cities often dangerous, countryside was safe
+		- incredibly expensive to build and maintain; served purpose
+		- nobles forced to live there, supervise, distracted with social events
+			- "Keep your friends close, keep your enemies closer"
 	- Large expenditures
 		1. Versailles
 		2. "New France" in North America
 		3. Huge standing armies!
+	- `"L'état, C'est Moi"
+# Louis XIV & Absolutism
+- [[Louis XIV]]
+	- `"One king, one law, one faith."` 
+	- [[Edict of Fountainbleu]] (1685)
+		- revoked [[Edict of Nantes]]
+		- state-sanctioned religious persecution
+		- 200-900k [[Huguenots]] voluntarily leave France
+		- wealthy skilled workers left :: "Their loss is our gain"
+	- military "investment", qu0adrupled
+	- Wars of Louis XIV (1667-1697) France grew at Hapsburg's expense
+	- his death left France in debt, long term issues
