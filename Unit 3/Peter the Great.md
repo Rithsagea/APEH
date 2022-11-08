@@ -2,6 +2,9 @@
 - rude personality, and indelicate tastes (cruel punishments waow)
 - reformer, expanded Russia westward
 - constructed capital, St. Petersburg
+	- "The Window to the West"
+	- influenced by [[Palace of Versailles]], *Peterhof* located in St. Petersburg
+	- constructed with land taken from Sweden
 
 ## Westernization
 - reorganized army and created navy (first one)

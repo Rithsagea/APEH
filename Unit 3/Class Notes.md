@@ -119,6 +119,35 @@
 		- state-sanctioned religious persecution
 		- 200-900k [[Huguenots]] voluntarily leave France
 		- wealthy skilled workers left :: "Their loss is our gain"
-	- military "investment", qu0adrupled
+	- military "investment", quadrupled
 	- Wars of Louis XIV (1667-1697) France grew at Hapsburg's expense
 	- his death left France in debt, long term issues
+# England in the 17th Century
+- English turns from [[Absolutism]] to [[Constitutionalism]] by end of 17th Century
+	- absolutist states -> [[sovereignty]] resides with the monarch
+	- constitutionalist states -> sovereignty resides with the parliament
+- No more [[Tudor|Tudor dynasty]] after 1603 ([[Elizabeth I]] dies)
+- "Virgin Queen"... no progeny, but many suitors, (not a virgin)
+- Distant cousins... from Scotland, succeeded ruling line
+- [[Stuart|The Stuart dynasty]]
+- [[James I]] (r.1603-1625)
+	- James VI of Scotland before 1603
+	- Made fun of for accent; wasn't English
+	1. Promoted divine right
+	2. "Fancied" [[Absolutism]]
+	- Parliament disagreed with these ideas, "friction between factions"
+	- Magna Carata in 1215 gave Parliament power
+	- Conflict between monarch and parliament, sovereignty struggle, motif
+# Parliament v. James I
+- [[James I]]
+	- Ostracized many very quickly
+	- Parliament & Catholics both disliked him
+	- [[The Gunpowder Plot]]
+		- Guy Fawkes tried to blow-up Parliament
+		- November 5, 1605
+		- Perceived perscution of Catholics
+		- Ratted out, tried, ... drawn & quartered
+	- tried to raise taxes and fund war without Parliament
+	- Parliament demanded consent for taxation, hindering James
+	- Circumvented Parliament by selling "titles"
+		- Viscount 10k pounds, Earl 20k pounds
