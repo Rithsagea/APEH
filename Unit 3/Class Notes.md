@@ -41,7 +41,7 @@
 1. [[Thomas Hobbes]]
 	- 17th century political theorist
 	- ideas reflect the times, 17th century England tumultuous
-	- [[England Civil War]]
+	- [[English Civil War]]
 	- a week of content (waow)
 	- *Leviathan* (1651)
 		- [[Absolutism]] was as absolute necessity
@@ -151,3 +151,35 @@
 	- Parliament demanded consent for taxation, hindering James
 	- Circumvented Parliament by selling "titles"
 		- Viscount 10k pounds, Earl 20k pounds
+		- upset "old money" parliament members vs "new money" merchants
+		- health issues, short lifespan + rule from inbreeding
+		- died of violenet dysentery
+- [[Charles I]]
+	- the son of [[James I]], more controversial than father
+	- quickly reached a boiling point
+	- Parliament challenged him, passing for [[The Petition of Right]] (1628)
+		- Parliament consent for TYW funding & taxation
+		- dissolves Parliament in 1629
+		- `"Personal rule"` for 11 years
+	- 1640 "Scotland Issue", needed money
+	- Bishops' War 1639-1640, Parliament reconvened out of neccessity in 1640
+	- The Long Parliament (1640-1660)
+		- pass the [[Triennial Acts]] :: meet at least every 3 years
+		- angers Charles, Parliament forms a militia
+# The English Civil War
+- [[English Civil War]]
+	- Parliament's militia -> "New Model Army" (Roundheads)
+	- led by [[Oliver Cromwell]], and fought [[Charles I]]'s army, Loyalists (Cavaliers)
+	- 1649, Charles is arrested and "tried", decapitated
+	- [[The Interregnum]] (1649 - 1660)
+		- means `between monarchs`
+		- [[Oliver Cromwell]] called "Lord Protector"
+		- similar to [[Robespierre]]
+		- verge of another civil war, but died of natural causes in 1658
+	- 1661 - Parliament exhumed Cromwell; posthumously hanged & decapitated; head left on a pike for years.
+	- The Restoration (1660), [[Charles II]]
+		- restores the [[Stuart]] monarchy, instating [[Charles II]]
+		- "decent & amiable", respected Parliament
+		- 1660s was a very tumultuous time (he was oblivious)
+		- plague outbreak in 1666 (again) London
+		- "The Great Fire" of London (1666)
