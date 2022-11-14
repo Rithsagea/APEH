@@ -59,3 +59,50 @@
 		- 1660s was a very tumultuous time (he was oblivious)
 		- plague outbreak in 1666 (again) London
 		- "The Great Fire" of London (1666)
+- [[Charles II]]
+	- Liked to party, hedonism
+	- wife, [[Catherine of Braganza]] made tea popular
+	- patron of the arts + sciences
+		- founded + funded the "Royal Observatory"
+	- [[The Royal Society]], funded fellows (commissioned by government)
+		- [[Robert Boyle]], [[Isaac Newton]]
+	- ran into issue of [[primogeniture]] :: had no legitmate male heirs
+		- 13 mistresses, 12+ bastards, cannot rule
+		- after death, his younger brother [[James II]] (Duke of York) became king
+			- Parliament feared his ascendancy
+			- hardcore **Catholic** & **absolutist**
+	- died of natural causes
+- [[James II]] (r. 1685-1688)
+	- infuriated Parliament by replacing all Protestant with Catholics
+	- 2 Protestant daughters, Mary + Anne; Parliament fears placated
+	- allegedly had a son in June 1688
+	- conspiracy theories
+		1. was actually stillborn
+		2. smuggled in another baby ?, "warming pan" myth
+	- [[The Glorious Revolution]] (1688)
+		- Parliament contacts Mary, ruling Netherlands with her husband [[William III]]
+		- landed an Dutch army at Torbay, UK
+		- James had no supporters, fled to France with "infant son"
+		- protection of his cousin [[Louis XIV]]
+```mermaid
+graph TD;
+A[James I]-->B[Charles I];
+B[Charles I]-->C[Charles II] & D[James II];
+D-->E[Mary II] & F["Anne (Protestant)"] & G["James (Catholic)"];
+E---H[William III];
+```
+# The Glorious Revolution (1688)
+- [[The Glorious Revolution]]
+	- Parliament sought **balanced government** with William and Mary
+	- Codified in a document
+	- [[The English Bill of Rights (1689)]]
+		- Influenced by [[John Locke]]
+		1. Enumerated power of government
+		2. New structure of government
+			- Parliament had *real* legislative power
+			- Monarch had specific power (limited)
+			- limited monarchy
+		- England -> stable domestic government, no revolutions in 18th C
+		- "Sun Never Set on the British Empire" 19th C
+		- English maintains major role in history
+- After [[Queen Anne]], no progeny, Hanoverian Dynasty
