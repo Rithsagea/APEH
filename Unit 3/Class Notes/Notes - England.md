@@ -1,0 +1,61 @@
+# England in the 17th Century
+- English turns from [[Absolutism]] to [[Constitutionalism]] by end of 17th Century
+	- absolutist states -> [[sovereignty]] resides with the monarch
+	- constitutionalist states -> sovereignty resides with the parliament
+- No more [[Tudor|Tudor dynasty]] after 1603 ([[Elizabeth I]] dies)
+- "Virgin Queen"... no progeny, but many suitors, (not a virgin)
+- Distant cousins... from Scotland, succeeded ruling line
+- [[Stuart|The Stuart dynasty]]
+- [[James I]] (r.1603-1625)
+	- James VI of Scotland before 1603
+	- Made fun of for accent; wasn't English
+	1. Promoted divine right
+	2. "Fancied" [[Absolutism]]
+	- Parliament disagreed with these ideas, "friction between factions"
+	- Magna Carata in 1215 gave Parliament power
+	- Conflict between monarch and parliament, sovereignty struggle, motif
+# Parliament v. James I
+- [[James I]]
+	- Ostracized many very quickly
+	- Parliament & Catholics both disliked him
+	- [[The Gunpowder Plot]]
+		- Guy Fawkes tried to blow-up Parliament
+		- November 5, 1605
+		- Perceived perscution of Catholics
+		- Ratted out, tried, ... drawn & quartered
+	- tried to raise taxes and fund war without Parliament
+	- Parliament demanded consent for taxation, hindering James
+	- Circumvented Parliament by selling "titles"
+		- Viscount 10k pounds, Earl 20k pounds
+		- upset "old money" parliament members vs "new money" merchants
+		- health issues, short lifespan + rule from inbreeding
+		- died of violenet dysentery
+- [[Charles I]]
+	- the son of [[James I]], more controversial than father
+	- quickly reached a boiling point
+	- Parliament challenged him, passing for [[The Petition of Right]] (1628)
+		- Parliament consent for TYW funding & taxation
+		- dissolves Parliament in 1629
+		- `"Personal rule"` for 11 years
+	- 1640 "Scotland Issue", needed money
+	- Bishops' War 1639-1640, Parliament reconvened out of neccessity in 1640
+	- The Long Parliament (1640-1660)
+		- pass the [[Triennial Acts]] :: meet at least every 3 years
+		- angers Charles, Parliament forms a militia
+# The English Civil War
+- [[English Civil War]]
+	- Parliament's militia -> "New Model Army" (Roundheads)
+	- led by [[Oliver Cromwell]], and fought [[Charles I]]'s army, Loyalists (Cavaliers)
+	- 1649, Charles is arrested and "tried", decapitated
+	- [[The Interregnum]] (1649 - 1660)
+		- means `between monarchs`
+		- [[Oliver Cromwell]] called "Lord Protector"
+		- similar to [[Robespierre]]
+		- verge of another civil war, but died of natural causes in 1658
+	- 1661 - Parliament exhumed Cromwell; posthumously hanged & decapitated; head left on a pike for years.
+	- The Restoration (1660), [[Charles II]]
+		- restores the [[Stuart]] monarchy, instating [[Charles II]]
+		- "decent & amiable", respected Parliament
+		- 1660s was a very tumultuous time (he was oblivious)
+		- plague outbreak in 1666 (again) London
+		- "The Great Fire" of London (1666)
