@@ -2,3 +2,4 @@
 - [[Notes - Absolutism]]
 - [[Notes - French]]
 - [[Notes - England]]
+- [[Notes - Dutch Art]]
