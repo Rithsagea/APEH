@@ -36,9 +36,15 @@
 - decline in mortality
 	- famine :: new canals and roads enabled food transport; new foods
 	- disease :: bubonic plague disappeared, improved sanitation
-	- waste removeal :: careful when burying dead
+	- waste removal :: careful when burying dead
 	- war :: less destructive
 		- professional armies
 		- discipline, supply
 		- new battle grounds (New World)
 - famines eradicated in Western Europe
+# The Potato Famine
+- potato of famine 1846 to 1852, Ireland and Scotland
+- potato disease arrived (probably from American ships)
+- potatoes went rotten, people could not eat and went hungry
+- 1 million people starved to death, many got sick
+- blight :: plant dying, wilting, rotting, from infection / disease
