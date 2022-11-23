@@ -14,9 +14,21 @@
 		8. state funded STEM research
 		9. "free trade" renounced [[Mercantilism]]
 		10. secular outlook in government
-			- limit influence of organized
+			- limit influence of organized religion
 	1. why would rulers reform after having control
-	2. best example of enlightened rule?
+		1. utilitarian
+			- for administrative purposes
+			- efficiency in government, scientific
+		2. political stability
+			- make life palatable for "unwashed masses"
+			- grant some reforms (keep the proles happy)
+			- don't give them control over government
+			- don't promote crazy ideas like liberal government
+			- avert revolution from below
+			- ruler could lose everything
+		3. benevolent self-perception?
+		4. ethical reasons (?)
+	1. best example of enlightened rule?
 	- Enlightenment happened in Western Europe (France, England, etc.)
 	- Enlightened Absolutism occured in Central Europe / Eastern Europe
 		- Catherine II
