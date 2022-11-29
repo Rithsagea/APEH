@@ -33,3 +33,6 @@
 		- doubled Prussia by aggression
 		1. The Silesian issue [[War of Austrian Succession]]; 1740-1748 land & power; expense of [[Maria Theresa]] of Austria
 		2. "Cooperated" with Austria and Russia over `The Polish issue` in the 18th C; Precarious location between the three countries, partitioned
+			- Poland vanishes until 1919
+		3. [[The Seven Years' War]] :: 1756-1763, annexed more land
+- idolized by Hitler

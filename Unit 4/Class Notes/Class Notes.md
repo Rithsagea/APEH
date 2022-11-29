@@ -2,3 +2,4 @@
 - [[Notes - Agricultural Revolution]]
 - [[Notes - Enlightened Absolutism]]
 - [[Notes - Enlightened Rulers]]
+- [[Notes - Austria]]
