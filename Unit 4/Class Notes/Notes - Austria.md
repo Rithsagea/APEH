@@ -20,4 +20,15 @@
 	3. Seperation between government and church (secularism)
 		- reduced the role of the Jesuits in Austria
 	4. Legit Music: no flutes
-		- Funded Mozartc
+		- Funded Mozart
+		- Career in Salzburg & Vienna
+		- "Court music" for aristocrats
+	5. Education of commoners
+	6. Legal reform (uniformity regardless of social class)
+	7. Capital punishment reform
+	8. [[Serfdom Patent]] :: 1781 emancipated serfs
+		- life got better, not perfect; treated **humanely**
+	- died from being overwhelmed after 10 years
+	- foreign policy "headaches" were his undoing
+	- Hungarians & the Ottomans exhausted him
+	- sadly, subsequent rulers reinstated status quo

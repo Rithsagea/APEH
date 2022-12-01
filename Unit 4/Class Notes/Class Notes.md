@@ -3,3 +3,4 @@
 - [[Notes - Enlightened Absolutism]]
 - [[Notes - Enlightened Rulers]]
 - [[Notes - Austria]]
+- [[Notes - Catherine the Great]]
