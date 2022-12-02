@@ -4,3 +4,4 @@
 - [[Notes - Enlightened Rulers]]
 - [[Notes - Austria]]
 - [[Notes - Catherine the Great]]
+- [[Notes - The Dual Revolutions]]

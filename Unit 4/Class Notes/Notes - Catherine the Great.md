@@ -17,4 +17,11 @@
 			- results
 				- feared peasant revolts afterwards
 				- favored & further empowered the boyars
-				- 
+				- ironically serfdom became more repressive
+		2. Beyond Russia in 1780s / 1790s ([[French Revolution]])
+			- "ripple felt in Russian Empire" .. feared revolt
+		3. [[The Kosiuszko Uprising]] :: 1794
+			- a Polish nationalist movement :: independence at the expense of empire
+			- hope for an independent nation, was not successful
+	- died in 1796
+	- her son, Paul, r.1796-1801 (completely worthless)

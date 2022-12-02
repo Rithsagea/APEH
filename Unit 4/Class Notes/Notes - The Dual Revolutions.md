@@ -1,0 +1,7 @@
+- [[The French Revolution]] :: 1789-1815
+- [[The Industrial Revolution]] :: c. 1780s?-1914?
+	- 1st IR :: c. 1780s-1870s
+	- 2nd IR :: c. 1870s-1914
+	- Pre-1815 "localized" to Great Britain
+	- After 1816 disseminated to "continental Europe"
+	- 1st IR & 2nd IR similar, different time periods
