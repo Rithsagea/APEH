@@ -5,3 +5,4 @@
 	- Pre-1815 "localized" to Great Britain
 	- After 1816 disseminated to "continental Europe"
 	- 1st IR & 2nd IR similar, different time periods
+	- TBV p555-568 REview Book p157-163

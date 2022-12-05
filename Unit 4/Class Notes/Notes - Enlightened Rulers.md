@@ -20,7 +20,7 @@
 			- Government positions based on skill, not ancestry
 		10. More arable land cultivated
 			- New stable crops, vs rye + wheat; better for soil; turnips + potatos
-		11. Life more palatble for masses
+		11. Life more palatable for masses
 ## Less than Enlightened Behavior
 - [[Friedrich der Große]]
 	1. Did not emancipate serfs, hands were tied by situation
@@ -36,4 +36,3 @@
 			- Poland vanishes until 1919
 		3. [[The Seven Years' War]] :: 1756-1763, annexed more land
 - idolized by Hitler
-- 
