@@ -6,7 +6,7 @@
 	- After 1816 disseminated to "continental Europe"
 	- 1st IR & 2nd IR similar, different time periods
 	- TBV p555-568 REview Book p157-163
-# French Revolution
+# French Revolution Causes
 ## 1. The Estate System
 - System of social stratification that existed
 - For centuries before 1789
@@ -31,3 +31,38 @@
 		- proposed complete fiscal overhaul
 		- needed consent for taxes from "privileged estates"
 		- representatives from each Estate brought... "list of grievances"
+		- `Nothing good comes from a meeting full of angry people`
+## 2. Economic
+- 1640s-1780s :: "An Era of deficit spending"
+- [[Louis XIV]] and Louis XV (worthless)
+1. Versailles cost?
+2. Standing army & warfare
+3. French & Indian War (1754-1763)
+4. Aid to the United States
+- nearly bankrupt by 1780s, how could it get worse?
+1. Bad harvests 1787 & 1788 ->
+2. Increased food prices (grain)
+3. Natural disasters
+## 3. Philosophes
+## 4. 18th Century Revolutions
+# Estates General
+- Beginning of the meeting of the Estates General at Versailles
+- "Last stand of the Old Regime"
+- 1200 representatives had been elected over weeks leading to meeting regionally
+- 3rd Estate representatives were educated borgeousie, lawyers, doctors, vs illiterate peasants
+- 1st issue was *how* to vote
+- Historically voted "by estates" unfair
+- Proposed radical idea "by head"; per capita
+- debate lasted for weeks until an impasse
+## Tennis Court Oath
+- Meeting took unforeseen turn
+- 3rd Estate realized that they were being ignored & voting was worthless
+- Formed the National Assembly (only members of the 3rd Estate)
+- morning, June 20th, "mysteriously" locked out of their meeting room
+- Found room (indoor tennis court)
+- pledged an oath not to disband until they had a constitution
+- immortalized by the iconic artist, [[Jacques-Louis David]]
+	- preeminent artist of The French Revolution
+	- Neoclassical Art = Reverence for civic duty & patriotism
+	- relates to Greco-Roman virtue, civic duty, & patriotism
+	- *The Oath of the Horatii* 1784, 5 years before everything starts
