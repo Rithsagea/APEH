@@ -66,3 +66,32 @@
 	- Neoclassical Art = Reverence for civic duty & patriotism
 	- relates to Greco-Roman virtue, civic duty, & patriotism
 	- *The Oath of the Horatii* 1784, 5 years before everything starts
+## Storming of the Bastille
+- Common people more prone to using violence instead of discussion.
+- Urban poor :: *sans culottes* (without breaches)
+- Stormed the palace and took royal family prisoner
+- [[Olympe de Gouges]]
+	- member of the [[National Assembly]] after ratifaction of *Declaration of Rights of Man & of the Citizen*
+	- urged women gaining equal status
+	- wrote & published *A Declaration of Rights of Women & the Female Citizen* (1791), adaptation of other document
+	- 1st constitution ratified by N.A. in 1789
+	- ignored by patriarchal members
+	- became disillusioned with the Revolution
+	- attempts at feminism
+## Women's Inpact
+- common people's violence accelerating the Revolution
+- angry, armed & starving women marched from Paris to Versailles
+- Demanded [[Louis XVI]] address the food issue & stop avoiding them!
+- Massacred his guards, put their heads on pikes (as trophies)
+- Marched `"the baker, the baker's wife & baker's boy"` to Paris
+- Family under house arrest for rest of their lives
+## Escape Attempt
+- People distrusted both, especially the wife sine she wasn't even French (maybe a spy)
+- "The Austrian Whore"
+- tried to escape France
+- got as far as Varennes
+- didn't get far since people could recognize them, allegedly from their image on coins
+- evidence was found after a search that they wanted to get Austria
+- stage counterrevolution? put back L'Ancien Regime
+- Realized they couldn't be trusted, executed in January 21, 1793
+- After execution, even more violent
