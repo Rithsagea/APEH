@@ -45,7 +45,8 @@
 3. Natural disasters
 ## 3. Philosophes
 ## 4. 18th Century Revolutions
-# Estates General
+# Liberal Phase
+## Estates General
 - Beginning of the meeting of the Estates General at Versailles
 - "Last stand of the Old Regime"
 - 1200 representatives had been elected over weeks leading to meeting regionally
@@ -95,3 +96,27 @@
 - stage counterrevolution? put back L'Ancien Regime
 - Realized they couldn't be trusted, executed in January 21, 1793
 - After execution, even more violent
+# Radical Phase
+- The "National Assembly" under [[Robespierre]] (after the Bastille)
+- Ratification of *Declaration of the Rights of Man*
+- "Liberal Phase" achieved it's goal
+	1. End of Estates-System
+	2. Reduced power of monarch
+	3. a constitution based on [[liberal]] (18th C def) principles
+- Rise of the [[Jacobin]] club/party **transition to radical phase**
+- debated which form of government after overthrow of Louis XVI
+- factions within the NA
+	- "Right", Moderates, Girondin :: wanted constitutional monarchy established like GB
+	- "Left", Radical, "Mountain" :: wanted a republic (rare) established (no [[Louis XVI]])
+- September 22, 1792 ("Year I" of the Republic)
+- declared France a republic
+## Secularization
+- September 22, 1792 = "Year One"
+- attempt at complete secularization
+- "DeChristianization" policy The "Republican calendar"
+- eradicated any vestiges of Catholicism
+	1. months based on seasons
+	2. 10 day weeks :: *décadi*
+	3. each day of the year was named after useful things
+	4. churches were repurposed as "Temples to Reason"
+		- many devout Catholics reacted to these changes
