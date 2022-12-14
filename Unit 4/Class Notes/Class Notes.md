@@ -6,3 +6,4 @@
 - [[Notes - Catherine the Great]]
 - [[Notes - The Dual Revolutions]]
 - [[Notes - French Revolution]]
+- [[Notes - Napoleon]]
