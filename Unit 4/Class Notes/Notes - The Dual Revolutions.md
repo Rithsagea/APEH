@@ -120,3 +120,49 @@
 	3. each day of the year was named after useful things
 	4. churches were repurposed as "Temples to Reason"
 		- many devout Catholics reacted to these changes
+## Important
+- [[Robespierre]]
+	- Reign of Terror
+- [[Edmund Burke]]
+	- English aristocrat
+- Ideologies :: political beliefs
+	- Conservatism :: monarchy, Mercantilism
+	- Liberalism :: republic, Capitalism
+## The Thermidorian Reaction, The Directory
+- After [[Robespierre]], non-violent era
+- Started in month of Thermidor
+- (another) constitution
+## The Constitution of 1795
+- Government structure
+1. Executive branch controlled by 5 "directors" ... at the same time!
+	- The Directory
+2. Bicameral legislative
+	- Government remembered for being
+	- corrupt, inept, inefficient & unpopular
+	- multiple attempts to overthrow it
+	- multiple times the army saved it
+	- until people got what they wanted
+## 18 Brumaire 1799
+- Coup d'etat staged by recognized war hero at the time [[Napoleon]]
+- Napoleon Bonaparte, Italian Campaign icon
+# Napoleon
+"Popular dictator"
+- Benevolent actions
+- 1st action after 18 Brumaire
+- signed the *Concordat* (1801) between French government and Catholic Church
+- "Normalized" relationship that had previously been awkward during French Revolution
+- conquered neighbors
+- 2 major exceptions = Russia & ...
+- overthrew their monarchs & extended ideals of the revolution
+- by 1815 **Coalition** Army of European powers defeated him at Waterloo (Belgium)... exiled
+# Napoleonic Code
+- most lasting legacy
+- codified the original ideals of the Revolution & The Enlightenment
+- reinforced the *Declaration of the Rights of Man & Citizen* (1789)
+- basis of many legal codes in romance language speaking Europe (2022)
+- renounced privileges based on birth ("Old Regime")
+- jobs based on ability & merit
+- merit-based civil service system
+- religious toleration & equality before the law for citizens
+- however, still strongly patriarchal
+- women could not own property nor divorce
